@@ -1,0 +1,160 @@
+*{
+padding:0px;
+margin:auto;
+}
+	
+#top{
+padding:10px;
+padding-left:100px;
+
+}
+#top input[type=button]{
+font-size:18px;
+padding:8px;	
+margin-left:20px;
+background-color:white;
+}
+
+#top a{
+	text-decoration:none;
+	color:black;
+}
+#top input:hover{
+	background:#dfe7eb;
+}
+.banner{
+background-image:url(architect.jpg);
+background-position:center;
+background-repeat:no-repeat;
+padding:350px;
+margin:auto;
+background-size:cover;
+}
+.banner h1{
+	background-color:black;
+	font-size:2em;
+	color:grey;
+text-align:center;
+width:40%;
+	}
+
+	
+.projects{
+width:100%;
+padding:10px;
+margin:auto;
+}	
+.projects h1{
+font-size:2em;
+padding:30px;
+color:grey;
+margin:auto;
+}
+.projects img{
+width:23.5%;	
+padding:10px;	
+margin:auto;
+}
+
+.about{
+width:100%;
+height:800px;
+padding:10px;
+margin:auto;
+}
+.about h1{
+	font-size:2em;
+	color:grey;
+	padding:30px;
+	margin:auto;
+}
+.about p{
+font-family:calibri;
+font-size:1em;
+padding:24px;	
+margin:auto;
+text-align:justify;
+text-indent:50px;
+text-shadow:0px 0px 2px red;
+}
+
+.box{
+	width:20%;
+height:450px;
+float:left;
+padding:35px;	
+margin:auto;
+box-shadow:0px 0px 2px blue;
+}
+
+
+.box h2{
+	font-size:24px;
+	color:grey;	
+margin:auto;
+
+}
+.box p{
+	color:grey;
+	text-align:center;
+margin:auto;
+
+	}
+.box input[type=submit]
+{
+border-radius:5px;
+padding:10px;
+width:100%;
+margin:auto;
+}
+
+.contact{
+width:100%;
+padding:30px;
+margin:auto;
+height:	600px;
+	}
+.contact h1{
+font-size:2em;
+color:grey;	
+margin:auto;
+
+}
+.contact p{
+font-size:20px;
+padding:30px 30px 30px 0px;
+margin:auto;
+}
+.contact input[type=text]{
+width:90%;
+height:50px;
+border-radius:10px;
+padding:5px;
+margin:10px;
+}
+
+.contact input[type=email]{
+width:90%;
+height:50px;
+border-radius:10px;
+padding:5px;
+margin:10px;
+}
+.contact input[type=submit]{
+font-size:18px;
+background-color:black;
+color:white;
+width:18%;
+height:50px;
+border-radius:10px;
+padding:5px;
+margin:auto;
+}
+.end h1{
+background-color:black;
+color:white;
+font-size:24px;
+text-align:center;
+padding:30px;
+margin:auto;
+}
